@@ -1,7 +1,7 @@
 **Global Superstore Dashboard**
 This repository contains the Power BI Dashboard project created using the Global Superstore dataset. The dashboard provides in-depth analysis and visualizations to gain insights into various aspects of the business, such as sales performance, profitability, customer segmentation, and shipping metrics.
  
-
+![Global Superstore](https://github.com/Sarikav123/Global-Superstore-Dashboard/blob/main/Global%20Superstore.png)
 
 
 **Project Overview:**
